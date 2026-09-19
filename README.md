@@ -44,11 +44,32 @@ My technical path is backed by rigorous training programs, scholarships, and int
 
 ## 🛠️ Tech Stack & Skills
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,fastapi,git,github,vercel,figma&theme=light" alt="tech stack icons"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
+
 * **Programming & Core:** Python, SQL, OOP, Data Structures
 * **Data Science & ML:** Pandas, NumPy, Scikit-Learn, Deep Learning, Computer Vision, RAG architectures
 * **Data Visualization & BI:** Power BI, Tableau, Advanced Excel (Power Query, DAX, Dashboards)
 * **Deployment & Tools:** FastAPI, Streamlit, Git, GitHub, Vercel, Railway, Canva
 * **Soft Skills:** Team Leadership, HR Operations, Performance Auditing, Cross-Departmental Communication, Mentoring & Curriculum Design
+
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rokaia-Rezk&show_icons=true&theme=default&hide_border=true" alt="Rokaia's GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rokaia-Rezk&layout=compact&hide_border=true" alt="Top languages"/>
+</p>
 
 ---
 
