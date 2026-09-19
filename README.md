@@ -64,13 +64,11 @@ My technical path is backed by rigorous training programs, scholarships, and int
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rokaia-Rezk&show_icons=true&theme=default&hide_border=true" alt="Rokaia's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rokaia-Rezk&layout=compact&hide_border=true" alt="Top languages"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rokaia-Rezk&theme=vue" alt="GitHub Summary Card" />
 </p>
-
 ---
 
 ## 💼 Featured Projects
