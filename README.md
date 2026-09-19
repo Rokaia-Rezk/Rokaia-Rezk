@@ -64,13 +64,6 @@ My technical path is backed by rigorous training programs, scholarships, and int
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rokaia-Rezk&theme=vue" alt="GitHub Summary Card" />
-</p>
----
-
 ## 💼 Featured Projects
 
 ### 🧑‍💼 [HR Intelligence System](https://github.com/Rokaia-Rezk/HR-Intelligence-System)
