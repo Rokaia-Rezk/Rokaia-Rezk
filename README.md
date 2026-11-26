@@ -16,11 +16,9 @@ Turning raw data into models, dashboards, and decisions people can act on.
 
 ## 👋 About
 
-I'm a Computer Science & AI undergraduate (Information Systems, Damietta University) who builds **end-to-end data and ML solutions**, from cleaning raw data to a deployed app.
+I'm a Computer Science & AI undergraduate (Information Systems, Faculty of Computers and Artificial Intelligence, Damietta University) who builds **end-to-end data and ML solutions**, from cleaning raw data to a deployed app.
 
-My earlier career in **HR management** (HR Manager at TST, Divisional HR Monitor for the Ministry of Youth and Sports) taught me how businesses actually run, so I build models and dashboards around real business questions, not just metrics.
-
-Right now I'm focused on **machine learning and LLM/RAG systems**.
+I focus on **machine learning, deep learning, and LLM/RAG systems**, and I like projects that start from a real business question and end with something people can actually use. I also teach what I learn: I'm a **Co-Monitor for the Data Science track at MEGA Team (Mansoura)**, helping students go from zero to building their own projects.
 
 ---
 
@@ -38,7 +36,7 @@ Right now I'm focused on **machine learning and LLM/RAG systems**.
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🧑‍💼 **[HR Intelligence System](https://github.com/Rokaia-Rezk/HR-Intelligence-System)** | Dataset-agnostic HR analytics platform. A canonical schema plus an auto-mapping engine cleans and maps any uploaded HR file. Multi-page dashboard (payroll, performance, attendance, recruitment) and a Random Forest **attrition-prediction** model with feature importances and a risk watchlist. | `Python` `Streamlit` `Scikit-Learn` `Pandas` |
+| 🧑‍💼 **[HR Intelligence System](https://github.com/Rokaia-Rezk/HR-Intelligence-System)** | Dataset-agnostic analytics platform. A canonical schema plus an auto-mapping engine cleans and maps any uploaded HR file. Multi-page dashboard (payroll, performance, attendance, recruitment) and a Random Forest **attrition-prediction** model with feature importances and a risk watchlist. | `Python` `Streamlit` `Scikit-Learn` `Pandas` |
 | 🤖 **[Course RAG Assistant](https://github.com/Rokaia-Rezk?tab=repositories)** | Retrieval-Augmented Generation assistant that answers questions over course material using a custom retrieval pipeline. | `Python` `RAG` `LLMs` |
 | 📉 **[Telco Customer Churn Prediction](https://github.com/Rokaia-Rezk?tab=repositories)** | End-to-end churn pipeline for a telecom provider: data cleaning, feature engineering, model training, and evaluation. | `Python` `Jupyter` `Scikit-Learn` |
 | 📊 **[Retail Performance Dashboard](https://github.com/Rokaia-Rezk?tab=repositories)** | Interactive BI dashboard tracking retail sales, performance trends, and KPIs for data-driven decisions. | `Power BI` `DAX` |
@@ -65,15 +63,16 @@ Right now I'm focused on **machine learning and LLM/RAG systems**.
 
 ## 💼 Experience
 
+- **Co-Monitor, Data Science Track @ MEGA Team (Mansoura)** *(current)*: mentoring students, designing a structured Beginner → Advanced curriculum, and running hands-on sessions.
 - **AI Prompt Engineer & Annotator @ T-Maxx**: prompt optimization, LLM alignment, and dataset structuring under strict validation standards.
-- **Co-Mentor, Data Science @ MEGA Team MU**: designing a structured Beginner → Advanced curriculum and mentoring learners.
 - **Data Analytics Intern @ NTI (Port Said)**: SQL, Python, Power BI, Tableau, and ETL processes.
+- **Volunteer Work**: two years of volunteering in youth and community initiatives, coordinating teams and organizing activities.
 
 ---
 
 ## 🎓 Training & Certifications
 
-- **ITI**: Machine Learning Level 1 (completed), Level 2 (completed)
+- **ITI**: Machine Learning Level 1 and Level 2 (completed)
 - **NTI**: Data Analytics internship, Python & Data Science tracks
 - **NVIDIA Deep Learning Institute**: Deep Learning
 - **Google & ITI**: Build with AI, Masr Edition
@@ -83,7 +82,7 @@ Right now I'm focused on **machine learning and LLM/RAG systems**.
 
 ## 🎯 Currently
 
-- 🔬 Completing ITI Machine Learning Level 2
+- 👩‍🏫 Mentoring the Data Science track at MEGA Team
 - 🧠 Going deeper into Deep Learning and RAG/LLM systems
 - 🧪 Building more end-to-end ML projects that combine business insight with technical depth
 
