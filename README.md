@@ -73,7 +73,7 @@ Right now I'm focused on **machine learning and LLM/RAG systems**.
 
 ## 🎓 Training & Certifications
 
-- **ITI**: Machine Learning Level 1 (completed), Level 2 (in progress)
+- **ITI**: Machine Learning Level 1 (completed), Level 2 (completed)
 - **NTI**: Data Analytics internship, Python & Data Science tracks
 - **NVIDIA Deep Learning Institute**: Deep Learning
 - **Google & ITI**: Build with AI, Masr Edition
