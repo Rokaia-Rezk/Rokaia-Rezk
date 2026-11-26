@@ -63,7 +63,7 @@ I focus on **machine learning, deep learning, and LLM/RAG systems**, and I like 
 
 ## 💼 Experience
 
-- **Co-Monitor, Data Science Track @ MEGA Team (Mansoura)** *(current)*: mentoring students, designing a structured Beginner → Advanced curriculum, and running hands-on sessions.
+- **Co-Monitor, Data Science Track @ MEGA Team (Mansoura)** *(current)*: mentoring students, designing a structured Beginner → Advanced curriculum, and running hands-on sessions. [See the official announcement](https://www.linkedin.com/posts/megaabrteam-empoweringabrtechminds-shapingabrfutures-ugcPost-7503862794858053632-1idR/)
 - **AI Prompt Engineer & Annotator @ T-Maxx**: prompt optimization, LLM alignment, and dataset structuring under strict validation standards.
 - **Data Analytics Intern @ NTI (Port Said)**: SQL, Python, Power BI, Tableau, and ETL processes.
 - **Volunteer Work**: two years of volunteering in youth and community initiatives, coordinating teams and organizing activities.
