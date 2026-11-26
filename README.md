@@ -1,106 +1,107 @@
-# Hi there, I'm Rokaia Rezk 👋
+<div align="center">
 
-<p align="center">
-  <b>Computer Science & AI Undergraduate (Information Systems) | Data Analyst | Machine Learning Specialist | AI Prompt Engineer</b>
-</p>
+# Rokaia Rezk
 
----
+**Data Scientist · Machine Learning · AI Prompt Engineer**
 
-## 🚀 About Me & My Journey
+Turning raw data into models, dashboards, and decisions people can act on.
 
-Welcome to my GitHub profile! My journey is a story of continuous evolution and a deep passion for transforming complex, unstructured data into predictive models and actionable business insights.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rokaia-rezk-0761052bb)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-rokaia-rezk1.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rzq16575@gmail.com)
 
-* **The Academic Foundation:** I am currently an undergraduate student studying **Information Systems** at the Faculty of Computers and Artificial Intelligence, **Damietta University** (entering my third year).
-* **The Multidisciplinary Shift:** I started my professional path strongly rooted in **Human Resources Management** (serving as an HR Manager at TST and Divisional HR Monitor for the Ministry of Youth and Sports). Managing people, auditing performance metrics, and orchestrating operational workflows gave me a unique edge: a deep understanding of *business logic*, which I now seamlessly merge with *technical data science*.
-* **Transitioning to Tech:** Driven by a fascination with automation and intelligence, I transitioned into tech, mastering Office systems, design tools, and core programming — paving my way into Data Analytics and Machine Learning.
+</div>
 
 ---
 
-## 📚 Certifications & Continuous Learning
+## 👋 About
 
-My technical path is backed by rigorous training programs, scholarships, and international certifications:
+I'm a Computer Science & AI undergraduate (Information Systems, Damietta University) who builds **end-to-end data and ML solutions**, from cleaning raw data to a deployed app.
 
-* **Information Technology Institute (ITI - Ras El Bar):**
-  * Completed **Machine Learning Training - Level 1** (data preprocessing, feature engineering with Pandas & NumPy, supervised/unsupervised algorithms).
-  * Progressing through **Machine Learning Training - Level 2** (advanced architectures and model deployment).
-* **National Telecommunication Institute (NTI):**
-  * Intensive Data Analytics Internship in Port Said (SQL, Python, Power BI, Tableau, ETL processes).
-  * Python and Data Science foundational tracks.
-* **Kaggle & Specialized Platforms:**
-  * Certifications in Machine Learning, Deep Learning, Computer Vision, Pandas, NumPy, and RAG/LLM workflows.
-* **Global Tech Programs:**
-  * **Google & ITI:** "Build with AI: Masr Edition" Certificate.
-  * **NVIDIA Deep Learning Institute:** Deep Learning certification.
+My earlier career in **HR management** (HR Manager at TST, Divisional HR Monitor for the Ministry of Youth and Sports) taught me how businesses actually run, so I build models and dashboards around real business questions, not just metrics.
+
+Right now I'm focused on **machine learning and LLM/RAG systems**.
 
 ---
 
-## 🧠 My Philosophy & Approach in AI & Data
+## 🧭 What I Do
 
-* **Simplifying the Tech Track:** I believe in breaking down complex machine learning and data engineering concepts, making the learning path accessible and structured for others — a mindset I now apply as a **Co-Mentor in Data Science at MEGA Team MU**.
-* **Methodical Project Workflow:** Whether I'm handling raw data cleaning, exploratory data analysis (EDA), building classification/regression models, or developing full-stack analytical pipelines, I focus on end-to-end reproducibility and clear business value.
-* **Smart AI & Prompt Engineering:** As an AI Prompt Engineer & Annotator at **T-Maxx**, I specialize in prompt optimization, LLM alignment, and dataset structuring to maximize model accuracy and safety under strict validation standards.
-
----
-
-## 🛠️ Tech Stack & Skills
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,fastapi,git,github,vercel,figma&theme=light" alt="tech stack icons"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
-
-* **Programming & Core:** Python, SQL, OOP, Data Structures
-* **Data Science & ML:** Pandas, NumPy, Scikit-Learn, Deep Learning, Computer Vision, RAG architectures
-* **Data Visualization & BI:** Power BI, Tableau, Advanced Excel (Power Query, DAX, Dashboards)
-* **Deployment & Tools:** FastAPI, Streamlit, Git, GitHub, Vercel, Railway, Canva
-* **Soft Skills:** Team Leadership, HR Operations, Performance Auditing, Cross-Departmental Communication, Mentoring & Curriculum Design
+| | Focus | Tools |
+|---|---|---|
+| 📊 **Data Analytics** | Cleaning, EDA, KPI dashboards, business insight reports | Python, SQL, Power BI, Tableau, Excel (Power Query, DAX) |
+| 🤖 **Machine Learning** | Classification/regression pipelines, feature engineering, model evaluation, deployment | Pandas, NumPy, Scikit-Learn, Deep Learning, Computer Vision |
+| 🧠 **LLM & Prompt Engineering** | RAG assistants, prompt optimization, LLM alignment, dataset annotation | RAG, LLM workflows, FastAPI, Streamlit |
 
 ---
 
-## 💼 Featured Projects
+## 🚀 Featured Projects
 
-### 🧑‍💼 [HR Intelligence System](https://github.com/Rokaia-Rezk/HR-Intelligence-System)
-A Python-based HR management & analytics platform built from scratch — not tied to a single dataset. Uses a canonical schema + auto-mapping engine so any uploaded HR file gets cleaned and mapped automatically. Includes a multi-page dashboard (finance/payroll, performance, attendance, recruitment) and a **Random Forest attrition-prediction model** with feature importances and a risk watchlist for current employees.
-`Python` `Streamlit` `Scikit-Learn` `Pandas`
-
-### 📊 Retail Performance Dashboard
-An interactive BI dashboard analyzing retail sales, performance trends, and KPIs to support data-driven business decisions.
-`Python` `Power BI / Dashboarding`
-
-### 📉 Telco Customer Churn Prediction
-An end-to-end machine learning pipeline predicting customer churn for a telecom provider — covering data cleaning, feature engineering, model training, and evaluation.
-`Python` `Jupyter Notebook` `Machine Learning`
-
-### 🤖 Course RAG Assistant
-A Retrieval-Augmented Generation (RAG) assistant built to answer questions over course material, combining LLMs with a custom retrieval pipeline.
-`Python` `RAG` `LLMs`
+| Project | What it does | Stack |
+|---|---|---|
+| 🧑‍💼 **[HR Intelligence System](https://github.com/Rokaia-Rezk/HR-Intelligence-System)** | Dataset-agnostic HR analytics platform. A canonical schema plus an auto-mapping engine cleans and maps any uploaded HR file. Multi-page dashboard (payroll, performance, attendance, recruitment) and a Random Forest **attrition-prediction** model with feature importances and a risk watchlist. | `Python` `Streamlit` `Scikit-Learn` `Pandas` |
+| 🤖 **[Course RAG Assistant](https://github.com/Rokaia-Rezk?tab=repositories)** | Retrieval-Augmented Generation assistant that answers questions over course material using a custom retrieval pipeline. | `Python` `RAG` `LLMs` |
+| 📉 **[Telco Customer Churn Prediction](https://github.com/Rokaia-Rezk?tab=repositories)** | End-to-end churn pipeline for a telecom provider: data cleaning, feature engineering, model training, and evaluation. | `Python` `Jupyter` `Scikit-Learn` |
+| 📊 **[Retail Performance Dashboard](https://github.com/Rokaia-Rezk?tab=repositories)** | Interactive BI dashboard tracking retail sales, performance trends, and KPIs for data-driven decisions. | `Power BI` `DAX` |
 
 ---
 
-## 🎯 Next Goals
+## 🛠️ Tech Stack
 
-* Growing my role as **Co-Mentor – Data Science at MEGA Team MU**, where I'm helping build a structured, self-study-friendly Data Science curriculum for Beginner, Intermediate, and Advanced tracks.
-* Deepening my specialization in Machine Learning and Deep Learning (completing ITI Level 2 and beyond).
-* Expanding my portfolio with more end-to-end ML/analytics projects that combine business insight with technical depth.
-* Growing my experience in **AI prompt engineering and LLM workflows**, bridging data science with applied AI systems.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**Also:** Deep Learning · Computer Vision · RAG architectures · Advanced Excel · OOP & Data Structures · Vercel · Railway
 
 ---
 
-## 🤝 Work With Me / Services
+## 💼 Experience
 
-I take on a range of data & AI work, from quick tasks to full projects:
+- **AI Prompt Engineer & Annotator @ T-Maxx**: prompt optimization, LLM alignment, and dataset structuring under strict validation standards.
+- **Co-Mentor, Data Science @ MEGA Team MU**: designing a structured Beginner → Advanced curriculum and mentoring learners.
+- **Data Analytics Intern @ NTI (Port Said)**: SQL, Python, Power BI, Tableau, and ETL processes.
 
-* **Data Analysis:** cleaning, EDA, dashboards, and business insight reports (Power BI / Tableau / Excel).
-* **Machine Learning:** end-to-end model building — from data prep to deployment (classification, regression, prediction pipelines).
-* **Data Annotation & AI Prompt Engineering:** structuring datasets and optimizing prompts for LLM training and evaluation.
-* **Mentoring / Instruction:** teaching or mentoring specific Data Science topics (as I do at MEGA Team MU) — great for study groups, bootcamps, or onboarding.
-* **Project Scope:** open to both small, well-defined tasks and larger end-to-end projects.
+---
 
-📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/rokaia-rezk-0761052bb) · rzq16575@gmail.com · [Portfolio](https://portfolio-rokaia-rezk1.vercel.app/)
+## 🎓 Training & Certifications
+
+- **ITI**: Machine Learning Level 1 (completed), Level 2 (in progress)
+- **NTI**: Data Analytics internship, Python & Data Science tracks
+- **NVIDIA Deep Learning Institute**: Deep Learning
+- **Google & ITI**: Build with AI, Masr Edition
+- **Kaggle**: Machine Learning, Deep Learning, Computer Vision, Pandas, NumPy, RAG/LLM
+
+---
+
+## 🎯 Currently
+
+- 🔬 Completing ITI Machine Learning Level 2
+- 🧠 Going deeper into Deep Learning and RAG/LLM systems
+- 🧪 Building more end-to-end ML projects that combine business insight with technical depth
+
+---
+
+## 🤝 Open To
+
+- **Data analysis**: dashboards, EDA, and insight reports
+- **Machine learning**: from data prep to deployment
+- **Data annotation & prompt engineering**: LLM training and evaluation datasets
+- **Mentoring**: study groups, bootcamps, and onboarding
+
+Small, well-defined tasks or larger end-to-end projects, both welcome.
+
+---
+
+<div align="center">
+
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/rokaia-rezk-0761052bb) · [rzq16575@gmail.com](mailto:rzq16575@gmail.com) · [Portfolio](https://portfolio-rokaia-rezk1.vercel.app/)
+
+</div>
