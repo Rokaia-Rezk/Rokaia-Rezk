@@ -37,9 +37,9 @@ I focus on **machine learning, deep learning, and LLM/RAG systems**, and I like 
 | Project | What it does | Stack |
 |---|---|---|
 | 🧑‍💼 **[HR Intelligence System](https://github.com/Rokaia-Rezk/HR-Intelligence-System)** | Dataset-agnostic analytics platform. A canonical schema plus an auto-mapping engine cleans and maps any uploaded HR file. Multi-page dashboard (payroll, performance, attendance, recruitment) and a Random Forest **attrition-prediction** model with feature importances and a risk watchlist. | `Python` `Streamlit` `Scikit-Learn` `Pandas` |
-| 🤖 **[Course RAG Assistant](https://github.com/Rokaia-Rezk?tab=repositories)** | Retrieval-Augmented Generation assistant that answers questions over course material using a custom retrieval pipeline. | `Python` `RAG` `LLMs` |
-| 📉 **[Telco Customer Churn Prediction](https://github.com/Rokaia-Rezk?tab=repositories)** | End-to-end churn pipeline for a telecom provider: data cleaning, feature engineering, model training, and evaluation. | `Python` `Jupyter` `Scikit-Learn` |
-| 📊 **[Retail Performance Dashboard](https://github.com/Rokaia-Rezk?tab=repositories)** | Interactive BI dashboard tracking retail sales, performance trends, and KPIs for data-driven decisions. | `Power BI` `DAX` |
+| 🤖 **[Course RAG Assistant](https://github.com/Rokaia-Rezk/course-rag-assistant)** | Retrieval-Augmented Generation assistant that answers questions over course material using a custom retrieval pipeline. | `Python` `RAG` `LLMs` |
+| 📉 **[Telco Customer Churn Prediction](https://github.com/Rokaia-Rezk/Telco-Customer-Churn-Prediction)** | End-to-end churn pipeline for a telecom provider: data cleaning, feature engineering, model training, and evaluation. | `Python` `Jupyter` `Scikit-Learn` |
+| 📊 **[Retail Performance Dashboard](https://github.com/Rokaia-Rezk/retail-performance-dashboard)** | Interactive BI dashboard tracking retail sales, performance trends, and KPIs for data-driven decisions. | `Power BI` `DAX` |
 
 ---
 
